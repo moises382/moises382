@@ -5,7 +5,9 @@
 <p>
   <a href="https://github.com/moises382?tab=repositories"><strong>Explora mis proyectos ↗</strong></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://instagram.com/moygalvaz979">Instagram</a>
+  <a href="https://www.facebook.com/profile.php?id=61576752257442">Facebook</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://x.com/MoissGalvan5/media">X</a>
 </p>
 
 ## Sobre mí
@@ -29,6 +31,12 @@ Mi enfoque: **bases sólidas, código claro y aprendizaje constante**.
 
 ## Proyectos seleccionados
 
+### [Documentación de red institucional ↗](https://github.com/moises382/documentacion-red-institucional)
+
+Aplicación web para organizar el inventario de equipos, visualizar la topología de red y dar seguimiento a la documentación. Versión de portafolio con datos ficticios.
+
+`Next.js` `React` `TypeScript` `SQLite` · Documentación de infraestructura
+
 ### [Calendario moderno ↗](https://github.com/moises382/calendario-moderno)
 
 Calendario interactivo con cuenta regresiva, navegación por fechas y visualización del tiempo restante.
@@ -41,17 +49,11 @@ Proyecto para registrar alumnos, editar calificaciones y calcular promedios desd
 
 `Flutter` `Dart` · Gestión académica
 
-### [imgShare ↗](https://github.com/moises382/nodejs-imgshare)
-
-Práctica de desarrollo web para compartir imágenes y comentarios, basada en un tutorial de Fazt.
-
-`Node.js` `MongoDB` · Aplicación web
-
 ## Conversemos
 
 ¿Tienes una oportunidad o una idea para desarrollar? Me interesa colaborar con personas que disfruten construir y compartir lo que saben.
 
-**[Encuéntrame en Instagram ↗](https://instagram.com/moygalvaz979)**
+**[Facebook ↗](https://www.facebook.com/profile.php?id=61576752257442)** · **[X ↗](https://x.com/MoissGalvan5/media)**
 
 ---
 
