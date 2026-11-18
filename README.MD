@@ -1,27 +1,60 @@
-# 💫 About Me:
-Joven programador de 23 años con gran pasión por la tecnología y entusiasmo por seguir aprendiendo. Busco oportunidades para aplicar mis habilidades en desarrollo de software y trabajar en proyectos desafiantes que me permitan crecer profesionalmente.<br><br>Me considero una persona proactiva y autodidacta, con facilidad para resolver problemas lógicos. Estoy enfocado en ampliar mis conocimientos de lenguajes modernos como JavaScript, TypeScript y Python, así como de tecnologías web como Angular, React y Django.<br><br>Vivo en Colima, México y estoy muy interesado en formar parte de equipos de desarrollo de distintas empresas tech para aportar mis habilidades y, a la vez, sumar experiencia valiosa trabajando en proyectos laborales reales.<br><br>Me apasiona crear soluciones tecnológicas innovadoras y escalables. Busco oportunidades donde pueda desempeñarme en proyectos que representen retos interesantes, con un equipo de profesionales talentosos de los que también pueda aprender.<br><br>Si estás buscando un desarrollador joven, entusiasta y proactivo para tu equipo, ¡estaré encantado de conversar! Puedes contactarme a través de los medios que aparecen en mi perfil.
+<p>
+  <img src="./assets/header.svg" alt="Moisés — Desarrollo de software · Colima, México" width="100%" />
+</p>
 
+<p>
+  <a href="https://github.com/moises382?tab=repositories"><strong>Explora mis proyectos ↗</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://instagram.com/moygalvaz979">Instagram</a>
+</p>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/moyon2000)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/moygalvaz979) 
+## Sobre mí
 
+Soy **Moisés**, un desarrollador de Colima, México. Me gusta resolver problemas, entender cómo funcionan las cosas y convertir ideas en aplicaciones útiles.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=moises382&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=moises382&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=moises382&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Estoy fortaleciendo mis habilidades en desarrollo web. Soy autodidacta, disfruto aprender construyendo y busco oportunidades para aportar a un equipo y crecer con proyectos reales.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=moises382&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## Tecnologías que estoy aprendiendo
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=moises382&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p>
+  <img src="./assets/javascript.svg" alt="JavaScript" height="34" />
+  <img src="./assets/typescript.svg" alt="TypeScript" height="34" />
+  <img src="./assets/python.svg" alt="Python" height="34" />
+  <img src="./assets/angular.svg" alt="Angular" height="34" />
+  <img src="./assets/react.svg" alt="React" height="34" />
+  <img src="./assets/django.svg" alt="Django" height="34" />
+</p>
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+Mi enfoque: **bases sólidas, código claro y aprendizaje constante**.
+
+## Proyectos seleccionados
+
+### [Calendario moderno ↗](https://github.com/moises382/calendario-moderno)
+
+Calendario interactivo con cuenta regresiva, navegación por fechas y visualización del tiempo restante.
+
+`Python` `Tkinter` · Aplicación de escritorio
+
+### [Sistema de calificaciones ↗](https://github.com/moises382/Sistema-de-Calificaciones-)
+
+Proyecto para registrar alumnos, editar calificaciones y calcular promedios desde una interfaz gráfica.
+
+`Flutter` `Dart` · Gestión académica
+
+### [imgShare ↗](https://github.com/moises382/nodejs-imgshare)
+
+Práctica de desarrollo web para compartir imágenes y comentarios, basada en un tutorial de Fazt.
+
+`Node.js` `MongoDB` · Aplicación web
+
+## Conversemos
+
+¿Tienes una oportunidad o una idea para desarrollar? Me interesa colaborar con personas que disfruten construir y compartir lo que saben.
+
+**[Encuéntrame en Instagram ↗](https://instagram.com/moygalvaz979)**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=moises382&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <sub>Aprender, construir y mejorar. Un proyecto a la vez.</sub>
+</p>
