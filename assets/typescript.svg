@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="136" height="34" viewBox="0 0 136 34" role="img" aria-label="TypeScript">
+  <rect x="0.5" y="0.5" width="135" height="33" rx="7" fill="#111C2E" stroke="#2B3B56"/>
+  <rect x="9" y="8" width="20" height="18" rx="4" fill="#60A5FA"/>
+  <text x="19" y="20.5" fill="#0B1425" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="700">TS</text>
+  <text x="38" y="22" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="500">TypeScript</text>
+</svg>

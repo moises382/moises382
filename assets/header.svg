@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="336" viewBox="0 0 1200 336" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Moisés — Desarrollo de software</title>
+  <desc id="desc">Banner azul oscuro con el nombre Moisés, su ubicación en Colima, México y una ilustración de código.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="336" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1728"/>
+      <stop offset="1" stop-color="#111F37"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#67E8F9"/>
+      <stop offset="0.55" stop-color="#60A5FA"/>
+      <stop offset="1" stop-color="#818CF8"/>
+    </linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#93C5FD" fill-opacity="0.12"/>
+    </pattern>
+    <clipPath id="bounds"><rect width="1200" height="336" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#bounds)">
+    <rect width="1200" height="336" fill="url(#background)"/>
+    <rect x="624" y="0" width="576" height="336" fill="url(#dots)"/>
+    <circle cx="1094" cy="78" r="232" stroke="#60A5FA" stroke-opacity="0.10"/>
+    <circle cx="1094" cy="78" r="176" stroke="#60A5FA" stroke-opacity="0.08"/>
+    <rect width="1200" height="4" fill="url(#accent)"/>
+    <g font-family="Segoe UI, Inter, Arial, sans-serif">
+      <text x="66" y="65" fill="#93C5FD" font-size="15" font-weight="600" letter-spacing="3">@MOISES382</text>
+      <text x="62" y="166" fill="#F8FAFC" font-size="86" font-weight="700" letter-spacing="-3">Moisés<tspan fill="#67E8F9">.</tspan></text>
+      <text x="66" y="214" fill="#C3D4EA" font-size="26" font-weight="400">Desarrollo de software</text>
+      <path d="M67 272 L67 278 M64 275 L70 275" stroke="#67E8F9" stroke-width="2" stroke-linecap="round"/>
+      <text x="83" y="281" fill="#94A9C3" font-size="15" letter-spacing="2">COLIMA, MÉXICO</text>
+    </g>
+    <g transform="translate(748 63)">
+      <rect x="12" y="13" width="354" height="208" rx="14" fill="#060D1B" fill-opacity="0.35"/>
+      <rect width="354" height="208" rx="14" fill="#0B1425" stroke="#2C4162"/>
+      <path d="M0 42 H354" stroke="#23344F"/>
+      <circle cx="22" cy="21" r="4" fill="#405574"/>
+      <circle cx="38" cy="21" r="4" fill="#405574"/>
+      <circle cx="54" cy="21" r="4" fill="#405574"/>
+      <text x="233" y="26" font-family="Consolas, monospace" font-size="11" fill="#7F97B7">hello_world</text>
+      <g stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M101 94 L75 121 L101 148" stroke="#67E8F9"/>
+        <path d="M252 94 L278 121 L252 148" stroke="#67E8F9"/>
+        <path d="M192 83 L162 158" stroke="#818CF8"/>
+      </g>
+      <rect x="116" y="180" width="122" height="3" rx="1.5" fill="#2B4263"/>
+    </g>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="335" rx="19.5" stroke="#2B3B56"/>
+</svg>
